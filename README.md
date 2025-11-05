@@ -1,2 +1,2 @@
-# about-me
-My personal resume repository.
+# 📝이력서
+
