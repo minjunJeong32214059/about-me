@@ -7,17 +7,6 @@
 - 📧: jj353535jj@gmail.com
 - [![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=flat&logo=github&logoColor=white)](https://github.com/minjunJeong32214059): https://github.com/minjunJeong32214059
 
-const Minjun = {  
-😃 name: '정민준',  
-[![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/minjunJeong32214059): 'https://github.com/minjunJeong32214059',  
- 📧 email: 'jj353535jj@gmail.com',  
-📲 phone: '010-8566-9710'  
-};
-
-
-
-
-
 
 ## Introduce.
 > **실패를 사랑합니다.**
@@ -43,12 +32,6 @@ const Minjun = {
 2021.03~ 단국대학교 소프트웨어학과
 
 
-## 💪 Skills.
-- **Language**: ![Java](https://img.shields.io/badge/Java-007396.svg?style=flat&logo=OpenJDK&logoColor=white), ![C](https://img.shields.io/badge/C-A8B9CC.svg?style=flat&logo=C&logoColor=white)
-- **Tools**: ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=MySQL&logoColor=white)Android Studio, SQLite
-- **Version Control**: Git, GitHub
-- 🧠**Algorithm**: Baekjoon (Solved.ac)
-
 ## 💪 Skills
 
 **Language**
@@ -67,7 +50,10 @@ const Minjun = {
 **Algorithm / Problem Solving**
 - Baekjoon (Solved.ac)
 
+## 📁 Project
 
+### **건강한 단국인**
+Java Swing기반 칼로리 계산, 식단 관리 프로그램
 
 ## 🏆 수상 / 자격증 / 기타
 | 항목 | 취득일 |
