@@ -1,59 +1,65 @@
 # 📝이력서
 
-## ![Java](https://img.shields.io/badge/Java-007396.svg?style=flat-square&logo=OpenJDK&logoColor=white) 백엔드 개발자 정민준
-
-## Contact.
-- 📲: 010-8566-9710 
-- 📧: jj353535jj@gmail.com
-- [![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=flat&logo=github&logoColor=white)](https://github.com/minjunJeong32214059): https://github.com/minjunJeong32214059
+## 실패를 즐기는 백엔드 개발자 정민준
+<img src="https://github.com/user-attachments/assets/730b0a8c-bdad-464d-8de3-6bdd06d5fe1f" width="250" />
 
 
-## Introduce.
-> **실패를 사랑합니다.**
 
-개발 과정에서의 수많은 실패는 오류가 아니라, 저를 한 단계 성장시키는 과정이었습니다.  
-실패의 원인을 파악하고 해결하는 경험이 쌓여 더 나은 결과물을 만들었다고 생각합니다.  
-앞으로도 실패를 두려워하지 않고 반갑게 맞이하며, 더 나은 결과물을 만들어내는 개발자로 성장하고 싶습니다.
+## 👀 Contact.
+- 📱: **010-8566-9710** 
+- 📧: **jj353535jj@gmail.com**
+- **[![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=flat&logo=github&logoColor=white)](https://github.com/minjunJeong32214059): https://github.com/minjunJeong32214059**
 
-> **혼자보다 함께를 좋아합니다.**
+---
+## 🙋‍♂️ Introduce.
+> ### **실패를 사랑합니다.**
 
-혼자서는 훌륭한 결과를 만들어내기 어렵다고 생각합니다.  
-동료가 만들어낸 코드를 보며 배우고, 제 코드를 공유하며 의견을 나누는 과정에서 많이 성장했습니다.  
-앞으로도 적극적으로 소통하며 더 좋은 방향을 찾아나가는 개발자가 되고 싶습니다.
+개발 과정에서의 수많은 실패는 오답이 아니라, 더 나은 결과물을 만들어 내기 위한 정답이었습니다.  
+앞으로도 실패를 두려워하지 않고 오히려 반갑게 맞이하는 개발자로 일하고 싶습니다. 
 
-> **사용자의 입장으로 바라봅니다.**
+> ### **혼자보다 함께를 좋아합니다.**
 
-사용자의 만족도가 곧 개발의 성과를 결정한다고 생각합니다.  
-항상 사용자 관점에서 생각하며, 사용자가 만족할 수 있는 서비스를 만드는 개발자가 되고 싶습니다.
+간단한 과제라도 동료들과 코드를 공유하고 의견을 나누는 과정에서 많은 성장을 경험했습니다.  
+서로의 장점을 배우고 부족한 부분을 채워가며 더 나은 결과를 만들 수 있었습니다.  
+앞으로도 협업 속에서 배우고 성장해나가는 개발자가 되고 싶습니다.
 
-> 이걸 면접관입장에서 다 읽기는 내용이 너무 많지않나?
+
+> ### **사용자의 입장으로 바라봅니다.**
+
+개발은 기능 구현이 아니라, 사용자의 문제를 해결하는 일이라고 생각합니다.  
+항상 사용자의 입장에서 고민하고, 사용자가 만족할 수 있는 결과를 만들겠습니다.
+
+---
 
 ## 🎓 Education.
-2021.03~ 단국대학교 소프트웨어학과
+**2021.03~**  단국대학교 소프트웨어학과
 
+---
 
-## 💪 Skills
+##  💪 Skills
 
-**Language**
+### 💻 Programming Languages  
 - ![Java](https://img.shields.io/badge/Java-007396.svg?style=flat&logo=OpenJDK&logoColor=white)
 - ![C](https://img.shields.io/badge/C-A8B9CC.svg?style=flat&logo=C&logoColor=white)
-
-**Tools / IDE**
-- Android Studio
-- SQLite
+ 
+### 🛠 Tools / IDE  
+- ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat&logo=Android%20Studio&logoColor=white)
+- ![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?style=flat&logo=SQLite&logoColor=white)
 - ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=MySQL&logoColor=white)
+- ![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=Git&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=flat&logo=GitHub&logoColor=white)
 
-**Version Control**
-- Git
-- GitHub
+### 💬 Communication  
+- ![Slack](https://img.shields.io/badge/Slack-4A154B.svg?style=flat&logo=Slack&logoColor=white)
 
-**Algorithm / Problem Solving**
-- Baekjoon (Solved.ac)
+---
 
 ## 📁 Project
 
 ### **건강한 단국인**
 Java Swing기반 칼로리 계산, 식단 관리 프로그램
+
+---
 
 ## 🏆 수상 / 자격증 / 기타
 | 항목 | 취득일 |
