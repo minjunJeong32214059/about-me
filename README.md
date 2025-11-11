@@ -5,11 +5,14 @@
 ---
 
 # 👀 Contact
-📱: **010 - 8566  - 9710**   
-📧: **<jj353535jj@gmail.com>**  
-**[![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=flat&logo=github&logoColor=white)](https://github.com/minjunJeong32214059): https://github.com/minjunJeong32214059**
+| **Type** | **Info** |
+|---|---|
+| 📱 **Phone** | **010-8566-9710** |
+| 📧 **Email** | **jj353535jj@gmail.com** |
+| 📁 **GitHub** | **https://github.com/minjunJeong32214059** |
 
 ---
+
 # 🙋‍♂️ Introduce
 > ### **실패를 사랑합니다.**
 
@@ -39,12 +42,15 @@
 - ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=MySQL&logoColor=white)
  
 ### 🛠 Tools / IDE  
+- ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=flat&logo=Visual%20Studio%20Code&logoColor=white)
+- ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255.svg?style=flat&logo=eclipseide&logoColor=white)
 - ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat&logo=Android%20Studio&logoColor=white)
 - ![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=Git&logoColor=white)
 - ![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=flat&logo=GitHub&logoColor=white)
 
 ### 💬 Communication
 - ![Slack](https://img.shields.io/badge/Slack-4A154B.svg?style=flat&logo=Slack&logoColor=white)
+- ![Notion](https://img.shields.io/badge/Notion-000000.svg?style=flat&logo=notion&logoColor=white)
 
 ---
 
