@@ -1,5 +1,5 @@
 # 📝정민준
-### 실패를 사랑하는 백엔드 개발자 정민준
+### 실패를 즐기는 백엔드 개발자 정민준
 <img src="https://github.com/user-attachments/assets/730b0a8c-bdad-464d-8de3-6bdd06d5fe1f" width="250" />
 
 ---
@@ -14,7 +14,7 @@
 ---
 
 # 🙋‍♂️ Introduce
-> ### **실패를 사랑합니다.**
+> ### **실패를 즐기는 편입니다.**
 
 개발 과정에서의 수많은 실패는 오답이 아니라, 더 나은 결과물을 만들어 내기 위한 정답이었습니다.  
 앞으로도 실패를 두려워하지 않고, 도전과 시도를 즐기는 개발자로 일하고 싶습니다. 
@@ -33,26 +33,27 @@
 
 #  💪 Skills
 
-### 💻 Programming Languages  
-- ![Java](https://img.shields.io/badge/Java-007396.svg?style=flat&logo=OpenJDK&logoColor=white)
-- ![C](https://img.shields.io/badge/C-A8B9CC.svg?style=flat&logo=C&logoColor=white)
 
-### 🗄️ Database
-- ![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?style=flat&logo=SQLite&logoColor=white)
-- ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=MySQL&logoColor=white)
+
+## 💻 Programming Languages  
+- **Java**
+- **C**
+
+## 🗄️ Database
+- **MySQL**
  
-### 🛠 Tools / IDE  
-- ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=flat&logo=Visual%20Studio%20Code&logoColor=white)
-- ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255.svg?style=flat&logo=eclipseide&logoColor=white)
-- ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat&logo=Android%20Studio&logoColor=white)
-- ![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=Git&logoColor=white)
-- ![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=flat&logo=GitHub&logoColor=white)
+## 🛠 Tools / IDE  
+- **VSCode**
+- **Ecilpse**
+- **Android Studio**
+- **Git**
+- **GitHub**
 
-### 💬 Communication
-- ![Slack](https://img.shields.io/badge/Slack-4A154B.svg?style=flat&logo=Slack&logoColor=white)
-- ![Notion](https://img.shields.io/badge/Notion-000000.svg?style=flat&logo=notion&logoColor=white)
-
+## 💬 Communication
+- **Slack**
+- **Notion**
 ---
+
 
 # 📁 Project Experience
 
